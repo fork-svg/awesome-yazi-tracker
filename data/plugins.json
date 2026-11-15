@@ -1,0 +1,1690 @@
+{
+  "plugins": [
+    {
+      "name": "956MB/vscode.yazi",
+      "stars": 34,
+      "forks": 1,
+      "updated_at": "2026-05-13T01:54:53Z",
+      "created_at": "2024-09-13T12:37:28Z",
+      "description": "Yazi flavors inspired by VS Code, and Mofiqul/vscode.nvim",
+      "language": null,
+      "url": "https://github.com/956MB/vscode.yazi"
+    },
+    {
+      "name": "956MB/vscode.yazi.git",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "",
+      "description": "",
+      "language": "",
+      "url": "https://github.com/956MB/vscode.yazi.git"
+    },
+    {
+      "name": "AdithyanA2005/nord.yazi",
+      "stars": 16,
+      "forks": 2,
+      "updated_at": "2026-10-31T11:42:50Z",
+      "created_at": "2025-04-25T16:21:09Z",
+      "description": "Nord theme for yazi terminal file manager",
+      "language": null,
+      "url": "https://github.com/AdithyanA2005/nord.yazi"
+    },
+    {
+      "name": "AminurAlam/yazi-plugins",
+      "stars": 28,
+      "forks": 7,
+      "updated_at": "2026-11-11T10:45:20Z",
+      "created_at": "2025-10-08T07:22:08Z",
+      "description": "plugins for the yazi file manager",
+      "language": "Lua",
+      "url": "https://github.com/AminurAlam/yazi-plugins"
+    },
+    {
+      "name": "AnirudhG07/archivemount.yazi",
+      "stars": 18,
+      "forks": 5,
+      "updated_at": "2026-08-17T09:21:06Z",
+      "created_at": "2024-07-12T16:15:27Z",
+      "description": "Mounting and unmounting archives in yazi",
+      "language": "Lua",
+      "url": "https://github.com/AnirudhG07/archivemount.yazi"
+    },
+    {
+      "name": "AnirudhG07/custom-shell.yazi",
+      "stars": 45,
+      "forks": 13,
+      "updated_at": "2026-08-07T16:52:47Z",
+      "created_at": "2024-06-29T08:30:14Z",
+      "description": "Set your custom-shell as default shell in yazi!",
+      "language": "Lua",
+      "url": "https://github.com/AnirudhG07/custom-shell.yazi"
+    },
+    {
+      "name": "AnirudhG07/nbpreview.yazi",
+      "stars": 26,
+      "forks": 0,
+      "updated_at": "2025-10-22T12:56:41Z",
+      "created_at": "2024-07-07T06:32:45Z",
+      "description": "View your Jupyter notebooks beautifully in the preview",
+      "language": "Lua",
+      "url": "https://github.com/AnirudhG07/nbpreview.yazi"
+    },
+    {
+      "name": "AnirudhG07/plugins-yazi",
+      "stars": 29,
+      "forks": 2,
+      "updated_at": "2026-08-07T17:54:10Z",
+      "created_at": "2024-06-25T08:40:30Z",
+      "description": "Yazi plugins repository created for containing plugins and flavours i make",
+      "language": "Lua",
+      "url": "https://github.com/AnirudhG07/plugins-yazi"
+    },
+    {
+      "name": "AnirudhG07/rich-preview.yazi",
+      "stars": 100,
+      "forks": 5,
+      "updated_at": "2026-08-07T17:05:04Z",
+      "created_at": "2024-08-04T16:51:47Z",
+      "description": "Preview file types using rich in Yazi",
+      "language": "Lua",
+      "url": "https://github.com/AnirudhG07/rich-preview.yazi"
+    },
+    {
+      "name": "Ape/mediainfo.yazi",
+      "stars": 12,
+      "forks": 12,
+      "updated_at": "2024-12-20T12:09:04Z",
+      "created_at": "2024-07-25T11:31:42Z",
+      "description": "Yazi plugin for previewing media files",
+      "language": "Lua",
+      "url": "https://github.com/Ape/mediainfo.yazi"
+    },
+    {
+      "name": "Ape/open-with-cmd.yazi",
+      "stars": 38,
+      "forks": 8,
+      "updated_at": "2026-09-05T08:48:30Z",
+      "created_at": "2024-07-12T14:09:40Z",
+      "description": "Yazi plugin for opening files with a prompted command",
+      "language": "Lua",
+      "url": "https://github.com/Ape/open-with-cmd.yazi"
+    },
+    {
+      "name": "Ape/reflink.yazi",
+      "stars": 6,
+      "forks": 2,
+      "updated_at": "2026-02-18T08:54:22Z",
+      "created_at": "2024-07-11T11:28:14Z",
+      "description": "Yazi plugin for reflinking files",
+      "language": "Lua",
+      "url": "https://github.com/Ape/reflink.yazi"
+    },
+    {
+      "name": "Ape/simple-status.yazi",
+      "stars": 6,
+      "forks": 1,
+      "updated_at": "2025-02-09T10:10:19Z",
+      "created_at": "2024-07-08T22:23:54Z",
+      "description": "Yazi plugin for a simplified status line style",
+      "language": "Lua",
+      "url": "https://github.com/Ape/simple-status.yazi"
+    },
+    {
+      "name": "BBOOXX/file-actions.yazi",
+      "stars": 23,
+      "forks": 2,
+      "updated_at": "2026-08-22T08:03:36Z",
+      "created_at": "2024-03-09T10:56:05Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/BBOOXX/file-actions.yazi"
+    },
+    {
+      "name": "BennyOe/onedark.yazi",
+      "stars": 5,
+      "forks": 4,
+      "updated_at": "2025-04-15T09:06:34Z",
+      "created_at": "2024-04-10T07:29:47Z",
+      "description": "Yazi flavor with the Onedark colors",
+      "language": null,
+      "url": "https://github.com/BennyOe/onedark.yazi"
+    },
+    {
+      "name": "BennyOe/tokyo-night.yazi",
+      "stars": 73,
+      "forks": 7,
+      "updated_at": "2026-01-01T17:59:19Z",
+      "created_at": "2024-04-10T08:11:12Z",
+      "description": "Yazi flavor with the Tokyo Night colors",
+      "language": null,
+      "url": "https://github.com/BennyOe/tokyo-night.yazi"
+    },
+    {
+      "name": "Deepak22903/kdeconnect-send.yazi",
+      "stars": 18,
+      "forks": 5,
+      "updated_at": "2026-05-12T04:58:44Z",
+      "created_at": "2025-04-05T08:57:57Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/Deepak22903/kdeconnect-send.yazi"
+    },
+    {
+      "name": "DervexDev/f3d.yazi",
+      "stars": 0,
+      "forks": 1,
+      "updated_at": "2026-10-16T15:11:27Z",
+      "created_at": "2026-10-16T00:17:05Z",
+      "description": "Yazi 3D model previewer with orbit, zoom & model stats, powered by f3d",
+      "language": "Lua",
+      "url": "https://github.com/DervexDev/f3d.yazi"
+    },
+    {
+      "name": "DreamMaoMao/fg.yazi.git",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "",
+      "description": "",
+      "language": "",
+      "url": "https://github.com/DreamMaoMao/fg.yazi.git"
+    },
+    {
+      "name": "Geronfir/Bifold.yazi",
+      "stars": 2,
+      "forks": 0,
+      "updated_at": "2026-10-17T10:46:22Z",
+      "created_at": "2026-10-13T13:18:59Z",
+      "description": "Yazi plugin: dual-pane split view with switchable orientation (side-by-side or stacked), pane resize, and cross-pane copy/move. Fork of terrakok/split-tabs.yazi.",
+      "language": "Lua",
+      "url": "https://github.com/Geronfir/Bifold.yazi"
+    },
+    {
+      "name": "GianniBYoung/rsync.yazi",
+      "stars": 44,
+      "forks": 9,
+      "updated_at": "2026-07-02T22:59:22Z",
+      "created_at": "2024-08-03T03:49:06Z",
+      "description": "simple rsync plugin for yazi file manager",
+      "language": "Lua",
+      "url": "https://github.com/GianniBYoung/rsync.yazi"
+    },
+    {
+      "name": "GrzegorzKozub/mdcat.yazi",
+      "stars": 13,
+      "forks": 6,
+      "updated_at": "2025-04-24T07:50:21Z",
+      "created_at": "2024-09-28T06:02:49Z",
+      "description": "Preview markdown files in yazi with mdcat",
+      "language": "Lua",
+      "url": "https://github.com/GrzegorzKozub/mdcat.yazi"
+    },
+    {
+      "name": "KKV9/command.yazi",
+      "stars": 20,
+      "forks": 5,
+      "updated_at": "2026-01-28T23:17:50Z",
+      "created_at": "2024-06-30T17:59:29Z",
+      "description": "A plugin for Yazi that provides a command palette for executing commands interactively.",
+      "language": "Lua",
+      "url": "https://github.com/KKV9/command.yazi"
+    },
+    {
+      "name": "KKV9/compress.yazi",
+      "stars": 145,
+      "forks": 19,
+      "updated_at": "2026-08-22T20:32:23Z",
+      "created_at": "2024-06-29T22:21:11Z",
+      "description": "A Yazi plugin that compresses selected files to an archive.",
+      "language": "Lua",
+      "url": "https://github.com/KKV9/compress.yazi"
+    },
+    {
+      "name": "Lil-Dank/lazygit.yazi",
+      "stars": 80,
+      "forks": 13,
+      "updated_at": "2026-05-02T12:36:31Z",
+      "created_at": "2024-08-16T09:32:35Z",
+      "description": "lazygit plugin for yazi",
+      "language": "Lua",
+      "url": "https://github.com/Lil-Dank/lazygit.yazi"
+    },
+    {
+      "name": "MasouShizuka/close-and-restore-tab.yazi",
+      "stars": 17,
+      "forks": 3,
+      "updated_at": "2026-05-30T15:59:03Z",
+      "created_at": "2024-05-03T18:36:53Z",
+      "description": "A Yazi plugin that adds the functionality to close and restore tab.",
+      "language": "Lua",
+      "url": "https://github.com/MasouShizuka/close-and-restore-tab.yazi"
+    },
+    {
+      "name": "MasouShizuka/projects.yazi",
+      "stars": 67,
+      "forks": 11,
+      "updated_at": "2026-11-02T14:43:56Z",
+      "created_at": "2024-04-30T10:27:14Z",
+      "description": "A yazi plugin that adds the functionality to save and load projects.",
+      "language": "Lua",
+      "url": "https://github.com/MasouShizuka/projects.yazi"
+    },
+    {
+      "name": "Mellbourn/ls-colors.yazi",
+      "stars": 18,
+      "forks": 3,
+      "updated_at": "2024-03-24T06:34:54Z",
+      "created_at": "2024-03-23T21:05:40Z",
+      "description": "yazi theme based converting colors from LS_COLORS by trapd00r",
+      "language": null,
+      "url": "https://github.com/Mellbourn/ls-colors.yazi"
+    },
+    {
+      "name": "Mr-Ples/command-palette.yazi",
+      "stars": 11,
+      "forks": 4,
+      "updated_at": "2025-07-08T05:49:42Z",
+      "created_at": "2025-07-06T07:35:24Z",
+      "description": "ghetto vibe coded yazi command palette",
+      "language": "Lua",
+      "url": "https://github.com/Mr-Ples/command-palette.yazi"
+    },
+    {
+      "name": "Msouza91/rose-pine.yazi",
+      "stars": 10,
+      "forks": 4,
+      "updated_at": "2024-02-06T18:50:15Z",
+      "created_at": "2024-02-06T18:28:38Z",
+      "description": "Soho vibes for Yazi-fm",
+      "language": null,
+      "url": "https://github.com/Msouza91/rose-pine.yazi"
+    },
+    {
+      "name": "NoponyAsked/sxiv.yazi",
+      "stars": 9,
+      "forks": 1,
+      "updated_at": "2026-09-19T12:15:16Z",
+      "created_at": "2025-03-14T19:47:40Z",
+      "description": "Sxiv integration for yazi",
+      "language": "Lua",
+      "url": "https://github.com/NoponyAsked/sxiv.yazi"
+    },
+    {
+      "name": "PHONE1X/far-too-yazi",
+      "stars": 7,
+      "forks": 1,
+      "updated_at": "2026-09-08T10:09:05Z",
+      "created_at": "2026-08-18T09:44:42Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/PHONE1X/far2yazi"
+    },
+    {
+      "name": "PHONE1X/far-too-yazi.git",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "",
+      "description": "",
+      "language": "",
+      "url": "https://github.com/PHONE1X/far-too-yazi.git"
+    },
+    {
+      "name": "PHONE1X/lsblk-mount.yazi",
+      "stars": 8,
+      "forks": 0,
+      "updated_at": "2026-08-14T14:08:24Z",
+      "created_at": "2026-08-14T14:07:28Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/PHONE1X/lsblk-mount.yazi"
+    },
+    {
+      "name": "Reledia/flexoki.yazi",
+      "stars": 3,
+      "forks": 1,
+      "updated_at": "2024-01-31T04:18:52Z",
+      "created_at": "2024-01-31T04:02:13Z",
+      "description": "Flexoki theme for yazi",
+      "language": null,
+      "url": "https://github.com/Reledia/flexoki.yazi"
+    },
+    {
+      "name": "Reledia/glow.yazi",
+      "stars": 109,
+      "forks": 16,
+      "updated_at": "2025-06-13T21:10:23Z",
+      "created_at": "2024-01-28T14:10:54Z",
+      "description": "Glow preview plugin for yazi",
+      "language": "Lua",
+      "url": "https://github.com/Reledia/glow.yazi"
+    },
+    {
+      "name": "Reledia/hexyl.yazi",
+      "stars": 32,
+      "forks": 19,
+      "updated_at": "2025-04-14T19:55:31Z",
+      "created_at": "2024-02-02T14:09:49Z",
+      "description": "An hexyl plugin for yazi",
+      "language": "Lua",
+      "url": "https://github.com/Reledia/hexyl.yazi"
+    },
+    {
+      "name": "Reledia/miller.yazi",
+      "stars": 30,
+      "forks": 10,
+      "updated_at": "2025-04-17T12:58:03Z",
+      "created_at": "2024-02-01T16:38:31Z",
+      "description": "Miller, now in yazi",
+      "language": "Lua",
+      "url": "https://github.com/Reledia/miller.yazi"
+    },
+    {
+      "name": "Rolv-Apneseth/bypass.yazi",
+      "stars": 18,
+      "forks": 4,
+      "updated_at": "2026-05-17T21:18:36Z",
+      "created_at": "2024-04-23T17:41:38Z",
+      "description": "Yazi plugin for skipping directories with only a single sub-directory",
+      "language": "Lua",
+      "url": "https://github.com/Rolv-Apneseth/bypass.yazi"
+    },
+    {
+      "name": "Rolv-Apneseth/starship.yazi",
+      "stars": 152,
+      "forks": 9,
+      "updated_at": "2026-08-17T19:04:21Z",
+      "created_at": "2024-03-09T15:57:21Z",
+      "description": "Starship prompt plugin for yazi",
+      "language": "Lua",
+      "url": "https://github.com/Rolv-Apneseth/starship.yazi"
+    },
+    {
+      "name": "SL-RU/mount.yazi",
+      "stars": 6,
+      "forks": 1,
+      "updated_at": "2026-03-04T12:42:18Z",
+      "created_at": "2024-12-16T19:03:33Z",
+      "description": "Yazi plugin for SL_RU/mmtui TUI mount manager",
+      "language": "Lua",
+      "url": "https://github.com/SL-RU/mount.yazi"
+    },
+    {
+      "name": "Shallow-Seek/djvu-view.yazi",
+      "stars": 6,
+      "forks": 0,
+      "updated_at": "2026-01-22T04:26:42Z",
+      "created_at": "2025-08-19T02:55:04Z",
+      "description": "djvu preview for Yazi file browser",
+      "language": "Lua",
+      "url": "https://github.com/Shallow-Seek/djvu-view.yazi"
+    },
+    {
+      "name": "ShikherVerma/yazi-plugins",
+      "stars": 2,
+      "forks": 4,
+      "updated_at": "2026-07-13T13:29:44Z",
+      "created_at": "2026-07-10T23:28:22Z",
+      "description": "Yazi plugins: VS Code style git colors, git gutter preview, mobile-friendly auto layout",
+      "language": "Lua",
+      "url": "https://github.com/ShikherVerma/yazi-plugins"
+    },
+    {
+      "name": "Sonico98/allmytoes.yazi",
+      "stars": 14,
+      "forks": 4,
+      "updated_at": "2025-11-22T02:32:37Z",
+      "created_at": "2024-02-28T10:13:50Z",
+      "description": "Generate freedesktop-compatible thumbnails while using yazi",
+      "language": "Lua",
+      "url": "https://github.com/Sonico98/allmytoes.yazi"
+    },
+    {
+      "name": "Sonico98/exifaudio.yazi",
+      "stars": 73,
+      "forks": 9,
+      "updated_at": "2025-06-20T02:55:11Z",
+      "created_at": "2024-02-03T15:18:37Z",
+      "description": "Preview audio files metadata on yazi",
+      "language": "Lua",
+      "url": "https://github.com/Sonico98/exifaudio.yazi"
+    },
+    {
+      "name": "Sonico98/yazi-prompt.sh",
+      "stars": 23,
+      "forks": 4,
+      "updated_at": "2024-11-30T23:00:00Z",
+      "created_at": "2024-02-21T18:15:30Z",
+      "description": "Instructions to add an indicator when running a yazi subshell",
+      "language": "Shell",
+      "url": "https://github.com/Sonico98/yazi-prompt.sh"
+    },
+    {
+      "name": "TD-Sky/sudo.yazi",
+      "stars": 35,
+      "forks": 9,
+      "updated_at": "2026-08-30T04:43:06Z",
+      "created_at": "2024-03-08T15:11:33Z",
+      "description": "Call `sudo` in yazi",
+      "language": "Lua",
+      "url": "https://github.com/TD-Sky/sudo.yazi"
+    },
+    {
+      "name": "ThomasVanRiel/repo-status.yazi",
+      "stars": 1,
+      "forks": 1,
+      "updated_at": "2026-10-24T09:42:15Z",
+      "created_at": "2026-10-12T19:42:18Z",
+      "description": "Show the branch and status of Git repositories next to their directory in Yazi's file list, like a shell prompt does.",
+      "language": "Lua",
+      "url": "https://github.com/ThomasVanRiel/repo-status.yazi"
+    },
+    {
+      "name": "Tyarel8/goto-drives.yazi",
+      "stars": 5,
+      "forks": 0,
+      "updated_at": "2026-10-18T11:14:32Z",
+      "created_at": "2025-02-19T16:36:37Z",
+      "description": "Yazi plugin to cd to drives with a fzf menu",
+      "language": "Lua",
+      "url": "https://github.com/Tyarel8/goto-drives.yazi"
+    },
+    {
+      "name": "Tyarel8/nu.yazi",
+      "stars": 4,
+      "forks": 1,
+      "updated_at": "2026-01-22T17:34:22Z",
+      "created_at": "2025-03-20T20:49:17Z",
+      "description": "Yazi plugin to execute nu code",
+      "language": "Lua",
+      "url": "https://github.com/Tyarel8/nu.yazi"
+    },
+    {
+      "name": "Tyarel8/whide.yazi",
+      "stars": 5,
+      "forks": 0,
+      "updated_at": "2026-03-30T12:42:01Z",
+      "created_at": "2024-08-25T18:03:06Z",
+      "description": "Yazi plugin to hide/unhide files in windows",
+      "language": "Lua",
+      "url": "https://github.com/Tyarel8/whide.yazi"
+    },
+    {
+      "name": "WhoSowSee/mdv-previewer.yazi",
+      "stars": 13,
+      "forks": 0,
+      "updated_at": "2026-11-05T13:07:00Z",
+      "created_at": "2025-10-23T18:11:16Z",
+      "description": "Markdown previewer for the Yazi file manager with mdv-based rendering, adaptive panel-aware reflows, ANSI-preserving cache, configurable UI and code themes, and secure sanitization of custom arguments. Instant Markdown viewing with consistent formatting across all platforms",
+      "language": "Lua",
+      "url": "https://github.com/WhoSowSee/mdv-previewer.yazi"
+    },
+    {
+      "name": "WhoSowSee/mdv-previewer.yazi.git",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "",
+      "description": "",
+      "language": "",
+      "url": "https://github.com/WhoSowSee/mdv-previewer.yazi.git"
+    },
+    {
+      "name": "WhoSowSee/whoosh.yazi",
+      "stars": 40,
+      "forks": 3,
+      "updated_at": "2026-11-05T10:44:22Z",
+      "created_at": "2025-08-01T00:09:44Z",
+      "description": "Advanced bookmark manager for Yazi file manager with persistent/temporary bookmarks, directory history, fuzzy search integration, and intelligent path truncation. Jump between your favorite locations instantly across all platforms",
+      "language": "Lua",
+      "url": "https://github.com/WhoSowSee/whoosh.yazi"
+    },
+    {
+      "name": "WhoSowSee/whoosh.yazi.git",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "",
+      "description": "",
+      "language": "",
+      "url": "https://github.com/WhoSowSee/whoosh.yazi.git"
+    },
+    {
+      "name": "ahkohd/eza-preview.yazi",
+      "stars": 28,
+      "forks": 5,
+      "updated_at": "2026-06-30T11:42:19Z",
+      "created_at": "2025-06-02T02:38:05Z",
+      "description": "Yazi plugin to preview directories using eza",
+      "language": "Lua",
+      "url": "https://github.com/ahkohd/eza-preview.yazi"
+    },
+    {
+      "name": "alastairsounds/yazi-plugins",
+      "stars": 3,
+      "forks": 0,
+      "updated_at": "2026-09-25T17:20:46Z",
+      "created_at": "2026-07-27T21:12:57Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/alastairsounds/yazi-plugins"
+    },
+    {
+      "name": "alberti42/faster-piper.yazi",
+      "stars": 48,
+      "forks": 2,
+      "updated_at": "2026-08-16T17:17:52Z",
+      "created_at": "2026-01-11T02:48:39Z",
+      "description": "Pipe any shell command as a cached previewer.",
+      "language": "Lua",
+      "url": "https://github.com/alberti42/faster-piper.yazi"
+    },
+    {
+      "name": "alchezar/age-badge.yazi",
+      "stars": 4,
+      "forks": 0,
+      "updated_at": "2026-05-31T08:35:04Z",
+      "created_at": "2026-05-30T13:48:33Z",
+      "description": "Yazi plugin: a color-coded badge showing each file's age, red (recent) to violet (old). Inspired by OneCommander.",
+      "language": "Lua",
+      "url": "https://github.com/alchezar/age-badge.yazi"
+    },
+    {
+      "name": "aresler/path-from-root.yazi",
+      "stars": 13,
+      "forks": 3,
+      "updated_at": "2025-12-24T21:04:30Z",
+      "created_at": "2025-01-25T00:02:08Z",
+      "description": "Yazi plugin to copy file path relative to git root",
+      "language": "Lua",
+      "url": "https://github.com/aresler/path-from-root.yazi"
+    },
+    {
+      "name": "atareao/convert.yazi",
+      "stars": 8,
+      "forks": 5,
+      "updated_at": "2025-06-28T07:21:43Z",
+      "created_at": "2024-12-23T12:33:34Z",
+      "description": "Yazi plugin to convert selected images to other formats such as PNG, JPG or WebP using ImageMagick",
+      "language": "Lua",
+      "url": "https://github.com/atareao/convert.yazi"
+    },
+    {
+      "name": "barbanevosa/autosession.yazi",
+      "stars": 22,
+      "forks": 4,
+      "updated_at": "2026-02-23T18:27:27Z",
+      "created_at": "2026-01-26T08:52:06Z",
+      "description": "A Yazi plugin for automatic session persistence that saves the current state on exit and restores the last saved state on startup.",
+      "language": "Lua",
+      "url": "https://github.com/barbanevosa/autosession.yazi"
+    },
+    {
+      "name": "barbanevosa/linemode-plus.yazi",
+      "stars": 4,
+      "forks": 0,
+      "updated_at": "2026-02-24T12:41:11Z",
+      "created_at": "2026-02-23T17:53:36Z",
+      "description": "A Yazi plugin for linemode customization.",
+      "language": "Lua",
+      "url": "https://github.com/barbanevosa/linemode-plus.yazi"
+    },
+    {
+      "name": "beskep/hwp-preview.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2025-12-16T04:00:20Z",
+      "created_at": "2025-10-07T06:28:20Z",
+      "description": "Yazi perviewer for hwp/hwpx. 한컴오피스 한글 yazi 프리뷰. ",
+      "language": "Lua",
+      "url": "https://github.com/beskep/hwp-preview.yazi"
+    },
+    {
+      "name": "bmcszk/yazi-album-plugin",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-07-30T16:17:23Z",
+      "created_at": "2026-07-30T15:03:27Z",
+      "description": "yazi plugin: upload photos to a cloud album via a 3-step fzf wizard (provider → remote → album)",
+      "language": "Lua",
+      "url": "https://github.com/bmcszk/yazi-album-plugin.yazi"
+    },
+    {
+      "name": "boydaihungst/file-extra-metadata.yazi",
+      "stars": 22,
+      "forks": 1,
+      "updated_at": "2026-09-08T12:36:16Z",
+      "created_at": "2024-11-17T00:49:23Z",
+      "description": "This is a Yazi plugin that replaces the default file preview with extra information.",
+      "language": "Lua",
+      "url": "https://github.com/boydaihungst/file-extra-metadata.yazi"
+    },
+    {
+      "name": "boydaihungst/fuse-archive.yazi",
+      "stars": 9,
+      "forks": 2,
+      "updated_at": "2026-11-08T05:04:33Z",
+      "created_at": "2024-10-16T01:50:17Z",
+      "description": "Yazi plugin: mount and unmount archives transparently using fuse-archive",
+      "language": "Lua",
+      "url": "https://github.com/boydaihungst/fuse-archive.yazi"
+    },
+    {
+      "name": "boydaihungst/gvfs.yazi",
+      "stars": 80,
+      "forks": 10,
+      "updated_at": "2026-09-08T12:43:02Z",
+      "created_at": "2025-05-28T22:14:36Z",
+      "description": "gvfs.yazi uses gvfs and gio from glib to transparently mount and unmount devices in read/write mode, allowing you to navigate inside, view, and edit individual or groups of files.",
+      "language": "Lua",
+      "url": "https://github.com/boydaihungst/gvfs.yazi"
+    },
+    {
+      "name": "boydaihungst/mediainfo.yazi",
+      "stars": 119,
+      "forks": 11,
+      "updated_at": "2026-09-08T12:39:16Z",
+      "created_at": "2024-10-16T08:29:19Z",
+      "description": "Yazi plugin for previewing media files",
+      "language": "Lua",
+      "url": "https://github.com/boydaihungst/mediainfo.yazi"
+    },
+    {
+      "name": "boydaihungst/pref-by-location.yazi",
+      "stars": 27,
+      "forks": 3,
+      "updated_at": "2026-09-08T12:37:43Z",
+      "created_at": "2025-02-09T20:47:56Z",
+      "description": "This is a Yazi plugin that save linemode,  sort, show_hidden preferences by location.",
+      "language": "Lua",
+      "url": "https://github.com/boydaihungst/pref-by-location.yazi"
+    },
+    {
+      "name": "boydaihungst/restore.yazi",
+      "stars": 62,
+      "forks": 2,
+      "updated_at": "2026-09-08T12:34:35Z",
+      "created_at": "2024-10-20T10:09:28Z",
+      "description": "Undo/Recover trashed files/folders",
+      "language": "Lua",
+      "url": "https://github.com/boydaihungst/restore.yazi"
+    },
+    {
+      "name": "boydaihungst/save-clipboard-to-file.yazi",
+      "stars": 19,
+      "forks": 0,
+      "updated_at": "2026-09-08T12:42:21Z",
+      "created_at": "2025-04-17T10:23:29Z",
+      "description": "Yazi plugin to paste clipboard content to file.",
+      "language": "Lua",
+      "url": "https://github.com/boydaihungst/save-clipboard-to-file.yazi"
+    },
+    {
+      "name": "boydaihungst/simple-mtpfs.yazi",
+      "stars": 3,
+      "forks": 0,
+      "updated_at": "2025-05-28T22:20:47Z",
+      "created_at": "2024-10-23T16:12:09Z",
+      "description": "Mounting MTP devices (Android, Camera, etc) in yazi.",
+      "language": "Lua",
+      "url": "https://github.com/boydaihungst/simple-mtpfs.yazi"
+    },
+    {
+      "name": "boydaihungst/simple-tag.yazi",
+      "stars": 36,
+      "forks": 4,
+      "updated_at": "2026-09-08T12:39:52Z",
+      "created_at": "2025-02-13T12:11:15Z",
+      "description": "This is a Yazi plugin that add tags to files/folders. Each tag has its own tag key. DISCLAIM: This is not mactag, and won't use mactag.",
+      "language": "Lua",
+      "url": "https://github.com/boydaihungst/simple-tag.yazi"
+    },
+    {
+      "name": "boydaihungst/thunar-bulk-rename.yazi",
+      "stars": 2,
+      "forks": 0,
+      "updated_at": "2026-09-08T12:37:02Z",
+      "created_at": "2024-10-22T17:20:32Z",
+      "description": "Bulk rename using thunar -B for yazi",
+      "language": "Lua",
+      "url": "https://github.com/boydaihungst/thunar-bulk-rename.yazi"
+    },
+    {
+      "name": "bulletmark/cdhist.yazi",
+      "stars": 3,
+      "forks": 0,
+      "updated_at": "2026-01-15T04:27:59Z",
+      "created_at": "2025-02-22T22:46:52Z",
+      "description": "Yazi plugin for cdhist to fuzzy select and navigate within Yazi from your directory history",
+      "language": "Lua",
+      "url": "https://github.com/bulletmark/cdhist.yazi"
+    },
+    {
+      "name": "catppuccin/yazi",
+      "stars": 266,
+      "forks": 9,
+      "updated_at": "2026-08-20T14:40:04Z",
+      "created_at": "2024-02-17T13:44:43Z",
+      "description": "🐥 Soothing pastel theme for Yazi",
+      "language": "TypeScript",
+      "url": "https://github.com/catppuccin/yazi"
+    },
+    {
+      "name": "chriszarate/yazi.vim",
+      "stars": 21,
+      "forks": 4,
+      "updated_at": "2024-05-15T13:03:32Z",
+      "created_at": "2024-05-13T16:19:27Z",
+      "description": "yazi integration for plain vim",
+      "language": "Vim Script",
+      "url": "https://github.com/chriszarate/yazi.vim"
+    },
+    {
+      "name": "cxwx/fits-preview.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-06-30T01:16:41Z",
+      "created_at": "2026-02-21T07:09:29Z",
+      "description": "fits preview plugin in yazi",
+      "language": "Lua",
+      "url": "https://github.com/cxwx/fits-preview.yazi"
+    },
+    {
+      "name": "cxwx/netcdf-preview.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-06-30T00:56:36Z",
+      "created_at": "2026-03-24T12:41:48Z",
+      "description": "netcdf preview plugin of yazi",
+      "language": "Lua",
+      "url": "https://github.com/cxwx/netcdf-preview.yazi"
+    },
+    {
+      "name": "cxwx/parquet-preview.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-04-15T06:35:46Z",
+      "created_at": "2026-04-15T05:57:47Z",
+      "description": "parguet previewer plugin for yazi",
+      "language": "Lua",
+      "url": "https://github.com/cxwx/parquet-preview.yazi"
+    },
+    {
+      "name": "cxwx/root-preview.yazi",
+      "stars": 1,
+      "forks": 1,
+      "updated_at": "2026-06-30T01:12:06Z",
+      "created_at": "2026-02-20T18:02:22Z",
+      "description": "ROOT(Cern) file preview in yazi",
+      "language": "Lua",
+      "url": "https://github.com/cxwx/root-preview.yazi"
+    },
+    {
+      "name": "danchamorro/tui-toggle.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-03-03T01:38:41Z",
+      "created_at": "2026-03-02T01:45:50Z",
+      "description": "Toggle long-running TUIs from Yazi with persistent tmux sessions",
+      "language": "Lua",
+      "url": "https://github.com/danchamorro/tui-toggle.yazi"
+    },
+    {
+      "name": "dangooddd/kanagawa.yazi",
+      "stars": 75,
+      "forks": 11,
+      "updated_at": "2026-01-02T15:20:43Z",
+      "created_at": "2024-08-07T23:36:20Z",
+      "description": "Yazi flavor with the Kanagawa colors",
+      "language": null,
+      "url": "https://github.com/dangooddd/kanagawa.yazi"
+    },
+    {
+      "name": "dawsers/dual-pane.yazi",
+      "stars": 42,
+      "forks": 7,
+      "updated_at": "2024-10-29T16:34:27Z",
+      "created_at": "2024-10-19T22:59:37Z",
+      "description": "Yazi plugin: dual pane navigation",
+      "language": "Lua",
+      "url": "https://github.com/dawsers/dual-pane.yazi"
+    },
+    {
+      "name": "dawsers/toggle-view.yazi",
+      "stars": 17,
+      "forks": 1,
+      "updated_at": "2024-12-19T22:21:15Z",
+      "created_at": "2024-10-10T18:18:39Z",
+      "description": "Yazi plugin: toggle different view configurations with or without preview",
+      "language": "Lua",
+      "url": "https://github.com/dawsers/toggle-view.yazi"
+    },
+    {
+      "name": "dedukun/bookmarks.yazi",
+      "stars": 196,
+      "forks": 36,
+      "updated_at": "2025-07-09T21:24:49Z",
+      "created_at": "2024-02-09T17:23:43Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/dedukun/bookmarks.yazi"
+    },
+    {
+      "name": "dedukun/relative-motions.yazi",
+      "stars": 122,
+      "forks": 28,
+      "updated_at": "2025-07-09T21:30:05Z",
+      "created_at": "2024-02-12T23:17:45Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/dedukun/relative-motions.yazi"
+    },
+    {
+      "name": "dimi1357/mesh-preview.yazi",
+      "stars": 2,
+      "forks": 1,
+      "updated_at": "2026-01-15T09:30:39Z",
+      "created_at": "2026-01-15T09:20:26Z",
+      "description": "Yazi plugin to preview 3D mesh files and point clouds",
+      "language": "Python",
+      "url": "https://github.com/dimi1357/mesh-preview.yazi"
+    },
+    {
+      "name": "dimi1357/pickle.yazi",
+      "stars": 2,
+      "forks": 1,
+      "updated_at": "2026-01-15T09:30:41Z",
+      "created_at": "2026-01-15T09:20:27Z",
+      "description": "Yazi plugin to preview Python pickle files",
+      "language": "Lua",
+      "url": "https://github.com/dimi1357/pickle.yazi"
+    },
+    {
+      "name": "doclayer/yazi-doclayer",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-01-04T20:12:59Z",
+      "created_at": "2025-12-30T18:55:08Z",
+      "description": "AI-powered document intelligence for Yazi file manager",
+      "language": "Lua",
+      "url": "https://github.com/doclayer/yazi-doclayer"
+    },
+    {
+      "name": "ettom/openscad.yazi",
+      "stars": 4,
+      "forks": 0,
+      "updated_at": "2026-02-01T23:18:43Z",
+      "created_at": "2026-02-01T23:18:23Z",
+      "description": "Yazi plugin to preview 3D geometry files with OpenSCAD",
+      "language": "Lua",
+      "url": "https://github.com/ettom/openscad.yazi"
+    },
+    {
+      "name": "figgis/yuv.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2025-11-14T17:23:28Z",
+      "created_at": "2025-03-09T17:38:20Z",
+      "description": "Yazi plugin for viewing YUV-files",
+      "language": "Lua",
+      "url": "https://github.com/figgis/yuv.yazi"
+    },
+    {
+      "name": "gesellkammer/audio-preview.yazi",
+      "stars": 7,
+      "forks": 3,
+      "updated_at": "2026-09-17T11:32:47Z",
+      "created_at": "2025-02-28T12:08:52Z",
+      "description": "Preview audio files in yazi",
+      "language": "Lua",
+      "url": "https://github.com/gesellkammer/audio-preview.yazi"
+    },
+    {
+      "name": "glassjaw/difftool.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-10-08T03:23:46Z",
+      "created_at": "2026-10-08T02:47:45Z",
+      "description": "Compare 2 files/directories in Yazi with your git difftool",
+      "language": "Lua",
+      "url": "https://github.com/glassjaw/difftool.yazi"
+    },
+    {
+      "name": "goldfix/yazi-plugin-restic",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-10-22T16:39:23Z",
+      "created_at": "2026-10-20T12:50:27Z",
+      "description": "Yazi plugin to browse and restore Restic snapshots without FUSE. Snapshots appear as real folders with 0-byte placeholders, loaded lazily; files are fetched only on demand. Metadata preview, multi-select restore, SFTP support.",
+      "language": "Lua",
+      "url": "https://github.com/goldfix/yazi-plugin-restic"
+    },
+    {
+      "name": "grappas/wl-clipboard.yazi",
+      "stars": 26,
+      "forks": 12,
+      "updated_at": "2026-04-07T19:14:00Z",
+      "created_at": "2025-01-04T22:47:01Z",
+      "description": "Wayland implementation of a simple system clipboard for yazi file manager",
+      "language": "Lua",
+      "url": "https://github.com/grappas/wl-clipboard.yazi"
+    },
+    {
+      "name": "grimandgreedy/ffmpeg-stats.yazi",
+      "stars": 9,
+      "forks": 2,
+      "updated_at": "2026-09-02T15:45:10Z",
+      "created_at": "2025-12-20T06:59:24Z",
+      "description": "Display media stats in yazi using ffmpeg",
+      "language": "Lua",
+      "url": "https://github.com/grimandgreedy/ffmpeg-stats.yazi"
+    },
+    {
+      "name": "h-hg/yamb.yazi",
+      "stars": 106,
+      "forks": 13,
+      "updated_at": "2026-08-08T16:08:37Z",
+      "created_at": "2024-06-03T08:42:38Z",
+      "description": "Yet another bookmarks plugins. It supports persistence, jumping by a key, jumping by fzf.",
+      "language": "Lua",
+      "url": "https://github.com/h-hg/yamb.yazi"
+    },
+    {
+      "name": "hankertrix/augment-command.yazi",
+      "stars": 50,
+      "forks": 2,
+      "updated_at": "2026-11-14T15:05:45Z",
+      "created_at": "2024-06-28T17:39:16Z",
+      "description": "A plugin to augment some Yazi commands.",
+      "language": "Lua",
+      "url": "https://github.com/hankertrix/augment-command.yazi"
+    },
+    {
+      "name": "imsi32/yatline.yazi",
+      "stars": 155,
+      "forks": 28,
+      "updated_at": "2026-11-02T17:03:16Z",
+      "created_at": "2024-06-30T07:02:35Z",
+      "description": "The first Yazi plugin for customizing both header-line and status-line.",
+      "language": "Lua",
+      "url": "https://github.com/imsi32/yatline.yazi"
+    },
+    {
+      "name": "iynaix/time-travel.yazi",
+      "stars": 33,
+      "forks": 1,
+      "updated_at": "2026-10-15T04:17:41Z",
+      "created_at": "2024-10-10T10:00:25Z",
+      "description": "A yazi plugin for browsing backwards and forwards in time via BTRFS / ZFS snapshots.",
+      "language": "Lua",
+      "url": "https://github.com/iynaix/time-travel.yazi"
+    },
+    {
+      "name": "jessefarinacci/confirm-quit.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-01-29T20:30:12Z",
+      "created_at": "2026-01-29T18:29:46Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/jessefarinacci/confirm-quit.yazi"
+    },
+    {
+      "name": "jessefarinacci/cycle-linemode.yazi",
+      "stars": 2,
+      "forks": 1,
+      "updated_at": "2026-01-29T20:49:23Z",
+      "created_at": "2026-01-29T16:23:02Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/jessefarinacci/cycle-linemode.yazi"
+    },
+    {
+      "name": "jessefarinacci/favorite-files.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-01-29T20:42:35Z",
+      "created_at": "2026-01-29T16:22:43Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/jessefarinacci/favorite-files.yazi"
+    },
+    {
+      "name": "jessefarinacci/smart-arrow.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-01-29T20:11:58Z",
+      "created_at": "2026-01-29T16:23:20Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/jessefarinacci/smart-arrow.yazi"
+    },
+    {
+      "name": "josephschmitt/auto-layout.yazi",
+      "stars": 9,
+      "forks": 5,
+      "updated_at": "2025-07-25T17:15:51Z",
+      "created_at": "2025-02-26T16:24:42Z",
+      "description": "Automatically change the column layout in yazi based on available window width",
+      "language": "Lua",
+      "url": "https://github.com/josephschmitt/auto-layout.yazi"
+    },
+    {
+      "name": "kalidyasin/yazi-flavors",
+      "stars": 14,
+      "forks": 3,
+      "updated_at": "2026-08-23T23:14:14Z",
+      "created_at": "2025-01-31T22:22:36Z",
+      "description": "Yazi flavor with the Tokyo Night colors",
+      "language": "Rust",
+      "url": "https://github.com/kalidyasin/yazi-flavors"
+    },
+    {
+      "name": "kirasok/torrent-preview.yazi",
+      "stars": 24,
+      "forks": 7,
+      "updated_at": "2026-08-19T16:54:26Z",
+      "created_at": "2024-05-05T13:33:30Z",
+      "description": "yazi plugin to preview bittorrent files",
+      "language": "Lua",
+      "url": "https://github.com/kirasok/torrent-preview.yazi"
+    },
+    {
+      "name": "ktunprasert/git-files.yazi",
+      "stars": 4,
+      "forks": 1,
+      "updated_at": "2026-03-26T17:55:13Z",
+      "created_at": "2025-06-11T19:07:37Z",
+      "description": "Yazi plugin that filter all changed git files",
+      "language": "Lua",
+      "url": "https://github.com/ktunprasert/git-files.yazi"
+    },
+    {
+      "name": "lesliek-dev/encapsulate.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-09-03T18:49:58Z",
+      "created_at": "2026-09-03T18:46:50Z",
+      "description": "A basic Yazi plugin to move individual selected files into their own self-named directories.",
+      "language": "Lua",
+      "url": "https://github.com/lesliek-dev/encapsulate.yazi"
+    },
+    {
+      "name": "lihuax-me/hevi.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2025-09-09T04:02:10Z",
+      "created_at": "2025-04-13T09:11:22Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/lihuax-me/hevi.yazi"
+    },
+    {
+      "name": "llanosrocas/githead.yazi",
+      "stars": 22,
+      "forks": 6,
+      "updated_at": "2026-01-26T11:33:54Z",
+      "created_at": "2024-07-21T16:08:56Z",
+      "description": "Git status header for yazi inspired by powerlevel10k",
+      "language": "Lua",
+      "url": "https://github.com/llanosrocas/githead.yazi"
+    },
+    {
+      "name": "llanosrocas/yaziline.yazi",
+      "stars": 34,
+      "forks": 4,
+      "updated_at": "2026-10-10T11:09:56Z",
+      "created_at": "2024-07-16T10:49:05Z",
+      "description": "Simple lualine-like status line for yazi",
+      "language": "Lua",
+      "url": "https://github.com/llanosrocas/yaziline.yazi"
+    },
+    {
+      "name": "lmnek/pandoc.yazi",
+      "stars": 11,
+      "forks": 1,
+      "updated_at": "2026-09-15T12:42:38Z",
+      "created_at": "2025-12-21T20:33:29Z",
+      "description": "Pandoc plugin for Yazi",
+      "language": "Lua",
+      "url": "https://github.com/lmnek/pandoc.yazi"
+    },
+    {
+      "name": "lpanebr/yazi-plugins",
+      "stars": 6,
+      "forks": 5,
+      "updated_at": "2026-06-02T22:30:45Z",
+      "created_at": "2024-09-15T16:19:36Z",
+      "description": "Home for my Yazi terminal file manager plugins.",
+      "language": "Lua",
+      "url": "https://github.com/lpanebr/yazi-plugins"
+    },
+    {
+      "name": "lpnh/fr.yazi",
+      "stars": 52,
+      "forks": 5,
+      "updated_at": "2026-01-02T11:20:09Z",
+      "created_at": "2024-04-11T22:30:15Z",
+      "description": "a Yazi plugin that integrates `fzf` with `bat` preview for `rg` search and `rga` preview for `rga` search",
+      "language": "Lua",
+      "url": "https://github.com/lpnh/fr.yazi"
+    },
+    {
+      "name": "lpnh/icons-brew.yazi",
+      "stars": 29,
+      "forks": 3,
+      "updated_at": "2026-07-11T10:57:39Z",
+      "created_at": "2024-06-09T14:27:55Z",
+      "description": "Make a hot `theme.toml` for your Yazi icons with your favorite color palette",
+      "language": "Lua",
+      "url": "https://github.com/lpnh/icons-brew.yazi"
+    },
+    {
+      "name": "macydnah/office.yazi",
+      "stars": 76,
+      "forks": 24,
+      "updated_at": "2025-09-20T04:44:30Z",
+      "created_at": "2024-12-07T00:25:07Z",
+      "description": "Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards)",
+      "language": "Lua",
+      "url": "https://github.com/macydnah/office.yazi"
+    },
+    {
+      "name": "mikavilpas/yazi.nvim",
+      "stars": 1895,
+      "forks": 60,
+      "updated_at": "2026-11-15T01:50:01Z",
+      "created_at": "2024-02-25T13:33:19Z",
+      "description": "A Neovim Plugin for the yazi terminal file manager",
+      "language": "Lua",
+      "url": "https://github.com/mikavilpas/yazi.nvim"
+    },
+    {
+      "name": "mikilio/snapshots.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-01-30T17:10:33Z",
+      "created_at": "2026-01-01T11:49:32Z",
+      "description": "Visit past snapshots of your current directory in Yazi",
+      "language": "Lua",
+      "url": "https://github.com/Mikilio/snapshots.yazi"
+    },
+    {
+      "name": "mshnwq/dupes.yazi",
+      "stars": 5,
+      "forks": 3,
+      "updated_at": "2026-01-29T07:59:57Z",
+      "created_at": "2025-10-16T14:43:12Z",
+      "description": "Duplicate files plugin for Yazi",
+      "language": "Lua",
+      "url": "https://github.com/Mshnwq/dupes.yazi"
+    },
+    {
+      "name": "ndtoan96/ouch.yazi",
+      "stars": 199,
+      "forks": 15,
+      "updated_at": "2026-09-12T08:03:28Z",
+      "created_at": "2024-03-21T02:28:18Z",
+      "description": "A Yazi plugin to preview archives.",
+      "language": "Lua",
+      "url": "https://github.com/ndtoan96/ouch.yazi"
+    },
+    {
+      "name": "nmetschke/recents.yazi",
+      "stars": 8,
+      "forks": 0,
+      "updated_at": "2026-11-02T06:13:09Z",
+      "created_at": "2026-09-05T10:49:09Z",
+      "description": "Recents plugin for Yazi based on the desktop-bookmark-spec",
+      "language": "Lua",
+      "url": "https://github.com/nmetschke/recents.yazi"
+    },
+    {
+      "name": "nsavvide/duck-radar.yazi",
+      "stars": 10,
+      "forks": 5,
+      "updated_at": "2026-08-24T15:03:35Z",
+      "created_at": "2025-12-02T21:11:47Z",
+      "description": "Yazi plugin to copy or move files from recently used files",
+      "language": "Lua",
+      "url": "https://github.com/nsavvide/duck-radar.yazi"
+    },
+    {
+      "name": "orhnk/system-clipboard.yazi",
+      "stars": 82,
+      "forks": 26,
+      "updated_at": "2026-08-29T14:44:45Z",
+      "created_at": "2024-08-14T13:45:05Z",
+      "description": "Cross platform implementation of a simple system clipboard for yazi file manager",
+      "language": "Lua",
+      "url": "https://github.com/orhnk/system-clipboard.yazi"
+    },
+    {
+      "name": "ourongxing/fast-enter.yazi",
+      "stars": 27,
+      "forks": 7,
+      "updated_at": "2026-01-02T06:48:22Z",
+      "created_at": "2024-06-05T06:41:56Z",
+      "description": "Plugin for Yazi to enter the subfolder faster, or open the file directly.",
+      "language": "Lua",
+      "url": "https://github.com/ourongxing/fast-enter.yazi"
+    },
+    {
+      "name": "pakhromov/autosave.yazi",
+      "stars": 3,
+      "forks": 1,
+      "updated_at": "2026-11-13T22:24:43Z",
+      "created_at": "2026-04-25T16:22:52Z",
+      "description": "Session restore plugin for yazi file manager",
+      "language": "Lua",
+      "url": "https://github.com/pakhromov/autosave.yazi"
+    },
+    {
+      "name": "pakhromov/batch-rename-gui.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-08-26T02:01:26Z",
+      "created_at": "2026-04-25T18:43:13Z",
+      "description": "Plugin for yazi file manager. Rename multiple selected files in a GUI text editor.",
+      "language": "Lua",
+      "url": "https://github.com/pakhromov/batch-rename-gui.yazi"
+    },
+    {
+      "name": "pakhromov/goto-file-dir.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-04-25T17:18:09Z",
+      "created_at": "2026-04-25T17:16:55Z",
+      "description": "Plugin for yazi file manager. Navigate to the directory of the hovered file when browsing search results.",
+      "language": "Lua",
+      "url": "https://github.com/pakhromov/goto-file-dir.yazi"
+    },
+    {
+      "name": "pakhromov/localsend.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-08-25T19:47:26Z",
+      "created_at": "2026-04-25T14:42:17Z",
+      "description": "Plugin for yazi file manager. Send selected files over the local network using localsend-go.",
+      "language": "Lua",
+      "url": "https://github.com/pakhromov/localsend.yazi"
+    },
+    {
+      "name": "pakhromov/paste-navigate.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-04-25T15:34:37Z",
+      "created_at": "2026-04-25T15:32:44Z",
+      "description": "Plugin for yazi file manager. Navigate to or create files and directories by pasting a path.",
+      "language": "Lua",
+      "url": "https://github.com/pakhromov/paste-navigate.yazi"
+    },
+    {
+      "name": "pakhromov/smart-tab.yazi",
+      "stars": 1,
+      "forks": 1,
+      "updated_at": "2026-10-29T14:09:04Z",
+      "created_at": "2026-04-25T19:25:02Z",
+      "description": "Plugin for yazi file manager. Switch to the next tab, or create a new one if already on the last tab.",
+      "language": "Lua",
+      "url": "https://github.com/pakhromov/smart-tab.yazi"
+    },
+    {
+      "name": "pakhromov/to-pdf-preview.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-08-26T01:21:03Z",
+      "created_at": "2026-04-25T17:00:17Z",
+      "description": "Plugin for yazi file manager. Preview any file type convertible to PDF (using external tools), with page counter and scrolling.",
+      "language": "Lua",
+      "url": "https://github.com/pakhromov/to-pdf-preview.yazi"
+    },
+    {
+      "name": "pakhromov/xcursor-preview.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-05-15T00:01:46Z",
+      "created_at": "2026-04-25T15:08:36Z",
+      "description": "Plugin for yazi file manager. Preview xcursor files with metadata and frame-by-frame animation scrolling.",
+      "language": "Lua",
+      "url": "https://github.com/pakhromov/xcursor-preview.yazi"
+    },
+    {
+      "name": "pareix/telegram-send.yazi",
+      "stars": 3,
+      "forks": 1,
+      "updated_at": "2025-04-11T20:40:30Z",
+      "created_at": "2025-04-11T17:06:16Z",
+      "description": "Send files via telegram-send directly from Yazi",
+      "language": "Lua",
+      "url": "https://github.com/pareix/telegram-send.yazi"
+    },
+    {
+      "name": "passion0102/mermaid.yazi",
+      "stars": 3,
+      "forks": 0,
+      "updated_at": "2026-05-22T03:10:55Z",
+      "created_at": "2026-05-17T00:34:21Z",
+      "description": "yazi plugin to render Mermaid diagrams inline in Markdown previews",
+      "language": "Lua",
+      "url": "https://github.com/passion0102/mermaid.yazi"
+    },
+    {
+      "name": "pirafrank/what-size.yazi",
+      "stars": 66,
+      "forks": 9,
+      "updated_at": "2026-09-02T21:34:18Z",
+      "created_at": "2024-08-03T19:04:25Z",
+      "description": "A plugin for yazi to calculate the size of current selection or current working directory",
+      "language": "Shell",
+      "url": "https://github.com/pirafrank/what-size.yazi"
+    },
+    {
+      "name": "poperigby/gruvbox-dark-yazi",
+      "stars": 21,
+      "forks": 6,
+      "updated_at": "2025-08-16T03:22:19Z",
+      "created_at": "2024-01-23T06:19:25Z",
+      "description": "A Gruvbox Dark theme for Yazi",
+      "language": null,
+      "url": "https://github.com/poperigby/gruvbox-dark-yazi"
+    },
+    {
+      "name": "ruudjhuu/f3d-preview.yazi",
+      "stars": 13,
+      "forks": 3,
+      "updated_at": "2026-07-29T08:39:14Z",
+      "created_at": "2025-10-12T07:49:23Z",
+      "description": "Yazi previewer which uses f3d to render 3d object files",
+      "language": "Lua",
+      "url": "https://github.com/Ruudjhuu/f3d-preview.yazi"
+    },
+    {
+      "name": "ryanda/video-grid.yazi",
+      "stars": 0,
+      "forks": 1,
+      "updated_at": "2026-04-17T12:19:43Z",
+      "created_at": "2026-04-17T12:12:04Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/ryanda/video-grid.yazi"
+    },
+    {
+      "name": "sachinsenal0x64/crystal-theme.yazi",
+      "stars": 9,
+      "forks": 0,
+      "updated_at": "2024-07-19T13:09:29Z",
+      "created_at": "2024-01-03T12:14:39Z",
+      "description": "🦄 Crystal theme for yazi",
+      "language": null,
+      "url": "https://github.com/sachinsenal0x64/crystal.yazi"
+    },
+    {
+      "name": "saumyajyoti/omp.yazi",
+      "stars": 24,
+      "forks": 4,
+      "updated_at": "2026-02-17T03:44:33Z",
+      "created_at": "2024-06-18T12:49:15Z",
+      "description": "oh-my-posh prompt plugin for Yazi file manager",
+      "language": "Lua",
+      "url": "https://github.com/saumyajyoti/omp.yazi"
+    },
+    {
+      "name": "sharklasers996/eza-preview.yazi",
+      "stars": 57,
+      "forks": 22,
+      "updated_at": "2024-06-27T06:52:50Z",
+      "created_at": "2024-05-29T04:51:26Z",
+      "description": "yazi plugin to preview directories using eza, list and tree modes",
+      "language": "Lua",
+      "url": "https://github.com/sharklasers996/eza-preview.yazi"
+    },
+    {
+      "name": "simla33/ucp.yazi",
+      "stars": 33,
+      "forks": 11,
+      "updated_at": "2026-10-16T05:58:58Z",
+      "created_at": "2025-10-08T03:25:58Z",
+      "description": "Integrates yazi copy/paste with system clipboard similar to GUI file managers.",
+      "language": "Python",
+      "url": "https://github.com/simla33/ucp.yazi"
+    },
+    {
+      "name": "skylightlim/gridview.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-09-25T16:53:52Z",
+      "created_at": "2026-09-25T16:42:14Z",
+      "description": "Thumbnail grid view for yazi, drawn by swayimg — the rofi grid-view tip without rofi",
+      "language": "Lua",
+      "url": "https://github.com/skylightlim/gridview.yazi"
+    },
+    {
+      "name": "skylightlim/omniconvert.yazi",
+      "stars": 2,
+      "forks": 0,
+      "updated_at": "2026-09-22T10:31:08Z",
+      "created_at": "2026-09-18T09:14:51Z",
+      "description": "A format-aware conversion menu for yazi: press c z and pick from only the formats your files can actually become. Images, audio, video, PDF and documents.",
+      "language": "Shell",
+      "url": "https://github.com/skylightlim/omniconvert.yazi"
+    },
+    {
+      "name": "stelcodes/bunny.yazi",
+      "stars": 94,
+      "forks": 7,
+      "updated_at": "2026-10-20T20:38:48Z",
+      "created_at": "2024-11-13T22:09:09Z",
+      "description": "🐰 Bookmarks menu for yazi with persistent and ephemeral bookmarks, fuzzy searching, previous directory, directory from another tab ",
+      "language": "Lua",
+      "url": "https://github.com/stelcodes/bunny.yazi"
+    },
+    {
+      "name": "superb-striker/retarget-link.yazi",
+      "stars": 2,
+      "forks": 0,
+      "updated_at": "2026-10-24T12:56:19Z",
+      "created_at": "2026-10-24T12:47:29Z",
+      "description": "A Yazi plugin for interactively changing the target of a symlink.",
+      "language": "Lua",
+      "url": "https://github.com/superb-striker/retarget-link.yazi"
+    },
+    {
+      "name": "tasnimAlam/croc-send.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-08-30T19:48:41Z",
+      "created_at": "2026-04-29T14:12:15Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/tasnimAlam/croc-send.yazi"
+    },
+    {
+      "name": "tasnimAlam/rotate-image.yazi",
+      "stars": 2,
+      "forks": 0,
+      "updated_at": "2026-07-29T07:33:12Z",
+      "created_at": "2025-05-21T20:22:04Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/tasnimAlam/rotate-image.yazi"
+    },
+    {
+      "name": "tasnimAlam/thumbnail.yazi",
+      "stars": 9,
+      "forks": 2,
+      "updated_at": "2026-10-09T11:20:54Z",
+      "created_at": "2025-05-21T20:41:27Z",
+      "description": "A Yazi file manager plugin to open images in Swayimg gallery viewer",
+      "language": "Lua",
+      "url": "https://github.com/tasnimAlam/thumbnail.yazi"
+    },
+    {
+      "name": "tasnimAlam/video-duration.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-04-29T10:31:02Z",
+      "created_at": "2025-12-04T07:25:06Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/tasnimAlam/video-duration.yazi"
+    },
+    {
+      "name": "terrakok/split-tabs.yazi",
+      "stars": 35,
+      "forks": 3,
+      "updated_at": "2026-08-18T14:46:17Z",
+      "created_at": "2026-04-08T20:53:30Z",
+      "description": null,
+      "language": "Lua",
+      "url": "https://github.com/terrakok/split-tabs.yazi"
+    },
+    {
+      "name": "tr1v3r/dsh-tui.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-10-07T02:59:10Z",
+      "created_at": "2026-09-06T04:38:37Z",
+      "description": "Launch terminal coding agents from Yazi with selected files",
+      "language": "Lua",
+      "url": "https://github.com/tr1v3r/agent-tui.yazi"
+    },
+    {
+      "name": "tr1v3r/epub-preview.yazi",
+      "stars": 0,
+      "forks": 0,
+      "updated_at": "2026-10-06T06:19:05Z",
+      "created_at": "2026-10-06T03:55:01Z",
+      "description": "Yazi plugin to preview EPUB covers through PyMuPDF",
+      "language": "Lua",
+      "url": "https://github.com/tr1v3r/epub-preview.yazi"
+    },
+    {
+      "name": "uhs-robert/recycle-bin.yazi",
+      "stars": 59,
+      "forks": 4,
+      "updated_at": "2026-08-22T18:42:55Z",
+      "created_at": "2025-08-10T23:41:22Z",
+      "description": "🗑️ recycle-bin.yazi is a Recycle Bin for Yazi with browse, restore, and cleanup capabilities. Give  your files a second chance before they're garbage collected!",
+      "language": "Lua",
+      "url": "https://github.com/uhs-robert/recycle-bin.yazi"
+    },
+    {
+      "name": "uhs-robert/sshfs.yazi",
+      "stars": 100,
+      "forks": 5,
+      "updated_at": "2026-11-02T19:06:39Z",
+      "created_at": "2025-07-29T15:34:07Z",
+      "description": "📡 Integrates SSH and SSHFS into the Yazi terminal file manager, letting you mount remote systems, browse and edit remote files like local ones, open interactive SSH terminals, select custom remote paths, and reuse persistent connections through SSH ControlMaster sockets.",
+      "language": "Lua",
+      "url": "https://github.com/uhs-robert/sshfs.yazi"
+    },
+    {
+      "name": "vmikk/symlink-target-path.yazi",
+      "stars": 5,
+      "forks": 0,
+      "updated_at": "2026-01-25T16:47:58Z",
+      "created_at": "2026-01-09T10:06:52Z",
+      "description": "Plugin for yazi to copy target path of symlinked file",
+      "language": "Lua",
+      "url": "https://github.com/vmikk/symlink-target-path.yazi"
+    },
+    {
+      "name": "vmikk/zless-preview.yazi",
+      "stars": 2,
+      "forks": 1,
+      "updated_at": "2026-06-10T17:00:06Z",
+      "created_at": "2025-04-01T09:55:17Z",
+      "description": "zless previewer for yazi",
+      "language": "Lua",
+      "url": "https://github.com/vmikk/zless-preview.yazi"
+    },
+    {
+      "name": "walldmtd/blender-preview.yazi",
+      "stars": 2,
+      "forks": 1,
+      "updated_at": "2025-11-19T02:53:10Z",
+      "created_at": "2025-11-19T01:29:46Z",
+      "description": "Yazi plugin to preview Blender's .blend and .blend1 files",
+      "language": "Lua",
+      "url": "https://github.com/walldmtd/blender-preview.yazi"
+    },
+    {
+      "name": "walldmtd/confirm-open.yazi",
+      "stars": 1,
+      "forks": 0,
+      "updated_at": "2026-08-23T20:29:47Z",
+      "created_at": "2026-03-11T02:19:14Z",
+      "description": "A Yazi plugin to show a confirmation popup when opening a large number of files",
+      "language": "Lua",
+      "url": "https://github.com/walldmtd/confirm-open.yazi"
+    },
+    {
+      "name": "walldmtd/fs-usage.yazi",
+      "stars": 6,
+      "forks": 1,
+      "updated_at": "2026-08-23T04:55:10Z",
+      "created_at": "2025-08-01T22:25:44Z",
+      "description": "A Yazi plugin to show used partition space",
+      "language": "Lua",
+      "url": "https://github.com/walldmtd/fs-usage.yazi"
+    },
+    {
+      "name": "walldmtd/krita-preview.yazi",
+      "stars": 4,
+      "forks": 1,
+      "updated_at": "2025-11-19T02:56:49Z",
+      "created_at": "2025-11-18T20:45:56Z",
+      "description": "Yazi plugin to preview Krita's .kra and .kra~ files",
+      "language": "Lua",
+      "url": "https://github.com/walldmtd/krita-preview.yazi"
+    },
+    {
+      "name": "wylie102/duckdb.yazi",
+      "stars": 194,
+      "forks": 29,
+      "updated_at": "2025-05-29T07:41:08Z",
+      "created_at": "2025-03-22T18:07:01Z",
+      "description": "Yazi plugin that uses duckdb to preview data files.",
+      "language": "Lua",
+      "url": "https://github.com/wylie102/duckdb.yazi"
+    },
+    {
+      "name": "yazi-rs/flavors",
+      "stars": 646,
+      "forks": 49,
+      "updated_at": "2026-11-09T17:18:29Z",
+      "created_at": "2023-10-21T00:20:48Z",
+      "description": "Some Yazi flavors maintained by community.",
+      "language": "JavaScript",
+      "url": "https://github.com/yazi-rs/flavors"
+    },
+    {
+      "name": "yazi-rs/plugins",
+      "stars": 633,
+      "forks": 79,
+      "updated_at": "2026-11-10T06:53:19Z",
+      "created_at": "2024-05-14T15:41:20Z",
+      "description": "Place code snippets from docs into this monorepo, so that users can update more easily via package manager.",
+      "language": "Lua",
+      "url": "https://github.com/yazi-rs/plugins"
+    },
+    {
+      "name": "yohkuri/supaline.yazi",
+      "stars": 4,
+      "forks": 0,
+      "updated_at": "2026-11-06T09:41:17Z",
+      "created_at": "2026-08-27T11:48:36Z",
+      "description": "A Yazi plugin that replaces the linemode with configurable columns",
+      "language": "Lua",
+      "url": "https://github.com/yohkuri/supaline.yazi"
+    },
+    {
+      "name": "yukimura1227/vim-yazi",
+      "stars": 23,
+      "forks": 1,
+      "updated_at": "2025-07-29T16:25:03Z",
+      "created_at": "2025-07-02T12:08:34Z",
+      "description": "Vim plugin integrating the Yazi file manager for seamless in-editor file browsing and navigation.",
+      "language": "Vim Script",
+      "url": "https://github.com/yukimura1227/vim-yazi"
+    }
+  ],
+  "last_update": "2026-11-15T09:25:13.825689+00:00"
+}
