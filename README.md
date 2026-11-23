@@ -4,7 +4,7 @@
 
 **更新频率**: 每周自动更新
 
-**最后更新**: 2026-11-16 04:37:19
+**最后更新**: 2026-11-23 05:37:36
 
 ---
 
@@ -198,18 +198,18 @@
 
 ### 最近 30 天更新的插件
 
-最近 30 天内有 **24** 个插件更新：
+最近 30 天内有 **18** 个插件更新：
 
 - [yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - 更新于 2026-11-15
 - [flavors](https://github.com/yazi-rs/flavors) - 更新于 2026-11-09
 - [plugins](https://github.com/yazi-rs/plugins) - 更新于 2026-11-10
 - [yatline.yazi](https://github.com/imsi32/yatline.yazi) - 更新于 2026-11-02
 - [sshfs.yazi](https://github.com/uhs-robert/sshfs.yazi) - 更新于 2026-11-02
-- [bunny.yazi](https://github.com/stelcodes/bunny.yazi) - 更新于 2026-10-20
 - [projects.yazi](https://github.com/MasouShizuka/projects.yazi) - 更新于 2026-11-02
 - [augment-command.yazi](https://github.com/hankertrix/augment-command.yazi) - 更新于 2026-11-14
 - [whoosh.yazi](https://github.com/WhoSowSee/whoosh.yazi) - 更新于 2026-11-05
-- [ucp.yazi](https://github.com/simla33/ucp.yazi) - 更新于 2026-10-16
+- [yazi-plugins](https://github.com/AminurAlam/yazi-plugins) - 更新于 2026-11-11
+- [nord.yazi](https://github.com/AdithyanA2005/nord.yazi) - 更新于 2026-10-31
 
 ---
 
@@ -230,4 +230,4 @@
 
 ---
 
-*Last updated: 2026-11-16T04:37:19.647859+00:00*
+*Last updated: 2026-11-23T05:37:36.038285+00:00*
